@@ -12,7 +12,8 @@ import java.util.concurrent.TimeUnit;
 
 public class DriverFactory {
     private static WebDriver driver;
-    private static final String url = "https://vtracking.innoway.vn";//https://vtracking2.viettel.vn/ url vtnet
+    //private static final String url = "https://vtracking.innoway.vn";//https://vtracking2.viettel.vn/ url vtnet
+    private static final String url = "https://vtracking2.viettel.vn";// url vtnet
 
     public static WebDriver getDriver(String browserName) {
 

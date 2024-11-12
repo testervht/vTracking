@@ -54,7 +54,9 @@ public class LoginPage {
     public void loginSuccessfully(){
         login(this.getUserName(1),this.getPassword(1));
         String currentURL = driver.getCurrentUrl();
-        String expectURL = "https://vtracking.innoway.vn/monitorMapV2";
+        //String expectURL = "https://vtracking.innoway.vn/monitorMapV2";
+        String expectURL = "https://vtracking2.viettel.vn/monitorMapV2";
+
 //        if (expectURL.equals(currentURL)){
 //            test.log(Status.PASS, "Dieu huong thanh cong den man Giam sat: " + currentURL); // anhntl52 suggest update text result thành tiếng Việt -> done
 //        }
