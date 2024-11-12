@@ -24,7 +24,8 @@ public class LogoutPage {
     public void logoutSuccessfully(){
         this.logout();
         String currentURL = driver.getCurrentUrl();
-        String expectURL = "https://vtracking.innoway.vn/";
+        //String expectURL = "https://vtracking.innoway.vn/";
+        String expectURL = "https://vtracking2.viettel.vn/"; //Product
         Assert.assertEquals(currentURL,expectURL);
     }
     public void logout(){
