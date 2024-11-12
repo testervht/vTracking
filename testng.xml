@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Run Single Test">
+        <classes>
+            <class name="testcases.UpCodeTest">
+                <methods>
+<!--                    <include name="upCode_1"/>-->
+<!--                    <include name="upCode_2"/>-->
+<!--                    <include name="upCode_3"/>-->
+<!--                    <include name="upCode_4"/>-->
+<!--                    <include name="upCode_5"/>-->
+<!--                    <include name="upCode_6"/>-->
+<!--                    <include name="upCode_7"/>-->
+<!--                    <include name="upCode_8"/>-->
+<!--                    <include name="upCode_9"/>-->
+<!--                    <include name="upCode_10"/>-->
+<!--                    <include name="upCode_11"/>-->
+<!--                    <include name="upCode_12"/>-->
+<!--                    <include name="upCode_13"/>-->
+<!--                    <include name="upCode_14"/>-->
+<!--                    <include name="upCode_15"/>-->
+<!--                    <include name="upCode_16"/>-->
+<!--                    <include name="upCode_17"/>-->
+<!--                    <include name="upCode_18"/>-->
+<!--                    <include name="upCode_19"/>-->
+<!--                    <include name="upCode_20"/>-->
+<!--                    <include name="upCode_21"/>-->
+<!--                    <include name="upCode_22"/>-->
+<!--                    <include name="upCode_23"/>-->
+<!--                    <include name="upCode_24"/>-->
+<!--                    <include name="upCode_25"/>-->
+<!--                    <include name="upCode_26"/>-->
+<!--                    <include name="upCode_27"/>-->
+<!--                    <include name="upCode_28"/>-->
+<!--                    <include name="upCode_29"/>-->
+<!--                    <include name="upCode_30"/>-->
+<!--                    <include name="upCode_31"/>-->
+<!--                    <include name="upCode_32"/>-->
+<!--                    <include name="upCode_33"/>-->
+<!--                    <include name="upCode_34"/>-->
+<!--                    <include name="upCode_35"/>-->
+<!--                    <include name="upCode_36"/>-->
+<!--                    <include name="upCode_37"/>-->
+<!--                    <include name="upCode_38"/>-->
+                    <include name="upCode_39"/>
+                    <include name="upCode_40"/>
+                    <include name="upCode_41"/>
+                    <include name="upCode_42"/>
+                    <include name="upCode_43"/>
+                    <include name="upCode_44"/>
+                    <include name="upCode_45"/>
+                    <include name="upCode_46"/>
+                    <include name="upCode_47"/>
+                    <include name="upCode_48"/>
+                    <include name="upCode_49"/>
+                    <include name="upCode_50"/>
+                    <include name="upCode_51"/>
+                    <include name="upCode_52"/>
+                    <include name="upCode_53"/>
+                    <include name="upCode_54"/>
+                    <include name="upCode_55"/>
+                    <include name="upCode_56"/>
+                    <include name="upCode_57"/>
+                    <include name="upCode_58"/>
+                    <include name="upCode_59"/>
+                    <include name="upCode_60"/>
+                    <include name="upCode_61"/>
+                    <include name="upCode_62"/>
+                    <include name="upCode_63"/>
+                    <include name="upCode_64"/>
+                    <include name="upCode_65"/>
+                    <include name="upCode_66"/>
+                    <include name="upCode_67"/>
+                    <include name="upCode_68"/>
+                    <include name="upCode_69"/>
+                    <include name="upCode_70"/>
+                    <include name="upCode_71"/>
+                    <include name="upCode_72"/>
+                    <include name="upCode_73"/>
+                    <include name="upCode_74"/>
+                    <include name="upCode_75"/>
+                    <include name="upCode_76"/>
+                    <include name="upCode_77"/>
+                    <include name="upCode_78"/>
+                    <include name="upCode_79"/>
+                    <include name="upCode_80"/>
+                    <include name="upCode_81"/>
+                    <include name="upCode_82"/>
+                    <include name="upCode_83"/>
+                    <include name="upCode_84"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
